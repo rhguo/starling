@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
