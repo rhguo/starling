@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
