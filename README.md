@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+New HUB Cloud Training docs page (#8174)
