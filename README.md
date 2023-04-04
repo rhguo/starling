@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add C++ Classify inference example (#6868)
