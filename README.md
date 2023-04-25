@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Fix TypeError in check_cfg() (#9245)
