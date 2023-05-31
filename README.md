@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
