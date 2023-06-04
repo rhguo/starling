@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Merge pull request #22 from SkalskiP/patch-1
