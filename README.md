@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add horizontal Mosaic3 augmentation (#6898)
