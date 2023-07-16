@@ -1,1 +1,1 @@
-fix non-coco val
+fix yolo classify model loading error (#9196)
