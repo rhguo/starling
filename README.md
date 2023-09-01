@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
