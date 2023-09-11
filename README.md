@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
