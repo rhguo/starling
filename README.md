@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+YAML reformat (#7669)
