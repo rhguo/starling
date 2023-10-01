@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+ultralytics 8.0.228 add training time argument (#7054)
