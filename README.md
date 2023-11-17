@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Auto-format by https://ultralytics.com/actions
