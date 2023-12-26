@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Fix OBB xywh-angle concatenation bug (#7404)
