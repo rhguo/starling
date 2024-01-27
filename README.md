@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+ultralytics 8.0.229 add model.embed() method (#7098)
