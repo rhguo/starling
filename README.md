@@ -1,1 +1,1 @@
-add logs
+Add OBB benchmarks to CI (#7777)
