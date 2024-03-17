@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+OpenVino 2024.0.0 (#8726)
