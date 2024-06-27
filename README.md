@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Fix OBB xywh-angle concatenation bug (#7404)
