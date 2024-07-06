@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
