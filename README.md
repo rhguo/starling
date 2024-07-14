@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Resize angle, count, and stage on keypoint number change (#7598)
