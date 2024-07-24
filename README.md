@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Hold failed upload metrics and upload with next upload metrics (#8513)
