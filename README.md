@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add NCNN Docs Integrations Page (#8562)
