@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Update Discord and Contributing Guide URLs (#9270)
